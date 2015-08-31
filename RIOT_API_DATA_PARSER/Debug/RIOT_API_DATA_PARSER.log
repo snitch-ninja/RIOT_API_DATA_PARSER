@@ -1,0 +1,76 @@
+﻿Build started 8/17/2015 10:25:49 PM.
+     1>Project "C:\Users\Justin\documents\visual studio 2015\Projects\RIOT_API_DATA_PARSER\RIOT_API_DATA_PARSER\RIOT_API_DATA_PARSER.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Justin\Documents\Visual Studio 2015\Projects\RIOT_API_DATA_PARSER\json-builder-master" /I"C:\Users\Justin\Documents\Visual Studio 2015\Projects\RIOT_API_DATA_PARSER\json-parser-master" /I"C:\Users\Justin\Documents\Visual Studio 2015\Projects\RIOT_API_DATA_PARSER\curl-7.40.0-devel-mingw32\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(111): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(303): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(316): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(342): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(346): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(352): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(355): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(361): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(369): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(372): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(384): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(387): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(399): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(402): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(418): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(421): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(428): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(439): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(459): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(464): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(469): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(565): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(567): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(587): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(125): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(138): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(160): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(209): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+         c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(209): note: consider using '%lld' in the format string
+         c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(209): note: consider using '%I64d' in the format string
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(213): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(214): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(215): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(256): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(277): warning C4473: 'printf' : not enough arguments passed for format string
+         c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(277): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+         c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(277): note: the missing variadic argument 1 is required by format string '%s'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(533): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(546): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+         c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(546): note: consider using '%lld' in the format string
+         c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(546): note: consider using '%I64d' in the format string
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(550): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(551): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(552): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(738): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+     1>c:\users\justin\documents\visual studio 2015\projects\riot_api_data_parser\riot_api_data_parser\main.c(769): warning C4172: returning address of local variable or temporary: statType
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Justin\documents\visual studio 2015\Projects\RIOT_API_DATA_PARSER\Debug\RIOT_API_DATA_PARSER.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Justin\Documents\Visual Studio 2015\Projects\RIOT_API_DATA_PARSER\curl-7.40.0-devel-mingw32\lib" /LIBPATH:"C:\Users\Justin\Documents\Visual Studio 2015\Projects\RIOT_API_DATA_PARSER\curl-7.40.0-devel-mingw32\bin" libcurl.a libcurldll.a kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Justin\documents\visual studio 2015\Projects\RIOT_API_DATA_PARSER\Debug\RIOT_API_DATA_PARSER.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Justin\documents\visual studio 2015\Projects\RIOT_API_DATA_PARSER\Debug\RIOT_API_DATA_PARSER.lib" /MACHINE:X86 "Debug\json-builder.obj"
+         Debug\json.obj
+         Debug\main.obj
+         Debug\oldmain.obj
+         RIOT_API_DATA_PARSER.vcxproj -> C:\Users\Justin\documents\visual studio 2015\Projects\RIOT_API_DATA_PARSER\Debug\RIOT_API_DATA_PARSER.exe
+     1>Done Building Project "C:\Users\Justin\documents\visual studio 2015\Projects\RIOT_API_DATA_PARSER\RIOT_API_DATA_PARSER\RIOT_API_DATA_PARSER.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79
