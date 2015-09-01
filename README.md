@@ -9,7 +9,7 @@ This Visual Studio 2015 C Program is what I created to aggregate data and statis
 	long long ironbacksBought;
 	long long plundercrabsBought;
 	long long ocklepodsBought;
-	 <br /> <br />
+
 	//OUTPUT_DATA_FILE & OUTPUT_BRAWLER_DATA_FILE
 	long long offensiveBuilds;
 	long long defensiveBuilds;
