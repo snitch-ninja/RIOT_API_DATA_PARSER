@@ -2,7 +2,7 @@
 This Visual Studio 2015 C Program is what I created to aggregate data and statistics from matches. It loops through 1000 matches in a match repository, like the Black Market Brawler match repos that were given out for the API challenge, and finds/saves all the info it needs on each loop.
 <br />
 <code>
-/* The data output is as follows
+/* The data output is as follows;
 	//OUTPUT_DATA_FILE ONLY
 	long long championId;
 	long long razorfinsBought;
