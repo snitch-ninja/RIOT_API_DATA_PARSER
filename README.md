@@ -4,7 +4,7 @@ This Visual Studio 2015 C Program is what I created to aggregate data and statis
 <code>
 /* The data output is as follows
 
-        //OUTPUT_DATA_FILE ONLY
+	//OUTPUT_DATA_FILE ONLY
 	long long championId;
 	long long razorfinsBought;
 	long long ironbacksBought;
