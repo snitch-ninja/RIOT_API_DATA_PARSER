@@ -29,3 +29,9 @@ in a json array of arrays, all data is in that order. */
 See the comments in <code>&lt;main.c&gt;</code> for a more detailed explaination; collapsing the <code>if(1){}</code>'s and top level <code>for(...){}</code> loops inside <code>int main(...){}</code> provides a more readable experience.
 
 I have changed my API key, so the one inside <code>&lt;main.c&gt;</code> does not work.
+
+This application isn't endorsed by Riot Games and doesn't reflect
+the views or opinions of Riot Games or anyone officially involved
+in producing or managing League of Legends. League of Legends and
+Riot Games are trademarks or registered trademarks of Riot Games,
+Inc. League of Legends © Riot Games, Inc.
